@@ -2,8 +2,8 @@
 title: Yun-Jin Lee
 date: 2020-02-18 13:45:47 +07:00
 modified: 2020-02-02 16:49:47 +07:00
-tags: [unix/linux, cli]
-description: Shell adalah sebuah command-line interpreter; program yang berperan sebagai penerjemah perintah yang diinputkan oleh User yang melalui terminal, sehingga perintah tersebut bisa dimengerti oleh si Kernel.
+tags: [Superviviente]
+description: Descripción de Yun-Jin Lee
 ---
 
 Fuerte y ambiciosa, a Yun-Jin le costó sangre, sudor y lágrimas hacerse con el éxito en la industria musical. Hicieron falta años de esfuerzo y sacrificio.

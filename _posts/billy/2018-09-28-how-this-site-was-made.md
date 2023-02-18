@@ -2,8 +2,8 @@
 title: El pueblerino
 date: 2023-02-18 13:53:47 +07:00
 modified: 2019-08-29 09:24:47 +07:00
-tags: [blog, netlify, jekyll, github]
-description: All the services are free, a source code this site placed on github repository and intergration with netlify service, another service that you can use is github page for hosting your own static site.
+tags: [Asesino]
+description: Descripción de el pueblerino
 ---
 
 Este niño sin nombre, vástago de los adinerados terratenientes Max Thompson Sr. y Evelyn Thompson, fue el hijo no deseado de unos padres despistados. Al estar horriblemente desfigurado, lo apartaron de la sociedad. Estaban tan avergonzados de su hijo que lo encerraron en una habitación y la tapiaron, le daban de comer a través de un agujero en la pared. Cuando el niño se escapó, se vengó de una forma terrible y salvaje, asesinando a sus padres, que lo habían torturado en vez de educarlo como a un hijo.
