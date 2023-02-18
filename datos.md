@@ -8,5 +8,5 @@ comments: false
 
 | Asesino | Metros por segundo |
 {% for dato in site.data.datos %}
-| {{ dato.asesino }} | {{ dato.asesino }} | {{ dato.asesino }} |
+| {{ dato.asesino }} | {{ dato.metros_por_segundo }} | 
 {% endfor %}
