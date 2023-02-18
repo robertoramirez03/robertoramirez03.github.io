@@ -4,4 +4,8 @@ title:  "Claudette Morel"
 date:   2023-02-18 12:49:20 +0700
 categories: jekyll update
 ---
-Este es mi primer post de prueba, bienvenido a él. Espero que lo disfrutes.
+Claudette Morel es una botánica estudiosa que puede aumentar su capacidad de supervivencia y la de su equipo. le permiten detectar a supervivientes heridos, así como curar a su equipo y a sí misma. Sus tres habilidades enseñables son:
+
+-Autocuración
+-Empatía
+-Conocimientos de botánica
