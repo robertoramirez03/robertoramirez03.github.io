@@ -11,7 +11,7 @@ mode: dark # default theme "dark" | "light"
 
 # Profile settings
 author:
-  name: Jekyll Klisé # author name
+  name: Roberto Ramírez # author name
   bio: >- # tell to the world
     Bienvenido/a a mi página de Dead by Daylight. Aquí te hablaré sobre algunos asesinos y supervivientes que más me gustan.
   username: username # general username
@@ -59,7 +59,7 @@ jekyll_compose:
     description:
 
 # Homepage limit posts
-number_of_posts: 5
+number_of_posts: 6
 
 # Build settings
 # theme: klise
