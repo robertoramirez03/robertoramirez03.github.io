@@ -2,8 +2,8 @@
   url: /
   external: false
 
-- title: archive
-  url: /archive/
+- title: buscador
+  url: /buscador/
   external: false
 
 - title: about
