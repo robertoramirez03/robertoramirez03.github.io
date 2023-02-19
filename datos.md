@@ -8,5 +8,5 @@ comments: false
 
 | Asesino | M/S |
 {% for dato in site.data.datos %}
-| {{ dato.asesino }} | {{ dato.m/s }} | 
+| {{ dato.asesino }} | {{ dato.metros_por_segundo }} | 
 {% endfor %}
