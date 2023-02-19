@@ -1,8 +1,8 @@
 ---
 - asesino: El arponero
-  metros_por_segundo: 4.4
+  m/s: 4.4
 - asesino: El pueblerino
-  metros_por_segundo: 4.6
+  m/s: 4.6
 - asesino: Los gemelos
-  metros_por_segundo: 4.6
+  m/s: 4.6
 ---
