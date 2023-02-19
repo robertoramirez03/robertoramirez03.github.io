@@ -6,7 +6,7 @@ excerpt: prueba de datos
 comments: false
 ---
 
-| Asesino            | Metros por segundo |
+| Asesino| M/S |
 {% for dato in site.data.datos %}
 | {{ dato.asesino }} | {{ dato.metros_por_segundo }} | 
 {% endfor %}
