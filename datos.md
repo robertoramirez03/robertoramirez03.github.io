@@ -17,3 +17,5 @@ comments: false
             <td>{{ dato.metros_por_segundo }}</td>
         </tr>
     {% endfor %}</table>
+
+![alt text](/assets/img/rebeca.jpg)
