@@ -18,4 +18,6 @@ comments: false
         </tr>
     {% endfor %}</table>
 
+<div class="centra">
 ![alt text](/assets/img/rebeca.jpg)
+</div>
