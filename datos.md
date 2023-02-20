@@ -6,7 +6,14 @@ excerpt: prueba de datos
 comments: false
 ---
 
-| Asesino | M/S |
-{% for dato in site.data.datos %}
-| {{ dato.asesino }} | {{ dato.metros_por_segundo }} | 
-{% endfor %}
+<table>
+        <tr>
+            <th>Asesino</th>
+            <th>Metros por segundo</th>
+        </tr>
+    {% for dato in site.data.datos %}
+        <tr>
+            <td>{{ dato.asesino }}</td>
+            <td>{{ dato.metros_por_segundo }}</td>
+        </tr>
+    {% endfor %}</table>
